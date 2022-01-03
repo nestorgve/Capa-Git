@@ -24,3 +24,10 @@ siempre se debe un commit con: Git commit -am "Lo que hiciste" (programa, funcio
 
 git log -> Listar cambios en orden descendiente
 
+git branch = Lista las ramas que posees y tambien muestra con el asterisco en cual rama estas parado
+
+git checkout nombrederama = cambiar de ramas
+
+git branch nombrederama = creas la rama
+
+git merge nombrederama = esto se hace desde donde se quiere importar los cambios
