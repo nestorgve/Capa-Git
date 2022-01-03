@@ -1,0 +1,26 @@
+Para la celula de git
+
+git programa (consola de linux)
+gitlab devops (portales)
+github desarrolladores (portales)
+
+Linux
+
+pdw -> Ruta donde estas parado
+ls - Listar todas las carpetas 
+tabulación - para rellenar
+ls -lA -> muestra todos los permisos que tienen el archivo y si esta oculto cuando tiene el punto primero (administrador, usuario, cliente)
+git init -> Inicializar GIT
+chmod 777 -R nombre de archivo
+
+git status -> te da la información en el branch master no hay commit todavia
+git add	Nombre del archivo -> es una base de datos escondido y trackear todos los cambios.
+git add . -> todo se trackea todos los archivos
+
+visual code -> bajarlo y trabajar con el
+
+cada vez que se hace un cambio se debe hacer un Git status
+siempre se debe un commit con: Git commit -am "Lo que hiciste" (programa, funcion subfuncion) AM es add message
+
+git log -> Listar cambios en orden descendiente
+
