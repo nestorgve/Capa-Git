@@ -36,3 +36,5 @@ git branch nombrederama = creas la rama.
 git merge nombrederama = esto se hace desde donde se quiere importar los cambios.
 
 vim "Nombre Archivo" = es para verificar lo que tiene el archivo.
+
+git log --all --graph --decorate --oneline
