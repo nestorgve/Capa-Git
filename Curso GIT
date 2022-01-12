@@ -38,3 +38,7 @@ git merge nombrederama = esto se hace desde donde se quiere importar los cambios
 vim "Nombre Archivo" = es para verificar lo que tiene el archivo.
 
 git log --all --graph --decorate --oneline
+
+Esc : Q = sales del git log 
+
+git pull https://github.com/nantorresenriquiz/Capa-Git.git
